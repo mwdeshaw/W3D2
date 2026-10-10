@@ -2,7 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     byebug (11.0.1)
-    sqlite3 (1.4.1)
+    mini_portile2 (2.8.9)
+    sqlite3 (2.9.6)
+      mini_portile2 (~> 2.8.0)
 
 PLATFORMS
   ruby
